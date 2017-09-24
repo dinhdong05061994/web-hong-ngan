@@ -1,0 +1,300 @@
+@font-face {
+    font-family: utm;
+    src: url('../fonts/43-5519-UVNSangSong_N.ttf') format('truetype');
+}
+.top{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.name{
+    text-align: center;
+}
+.name h1,h3{
+    font-family: utm;
+}
+.name h1{
+    color: #d2364c;
+}
+.name h3{
+    margin-top: 0px;
+}
+.top .log{
+   
+}
+.log a{
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+}
+.login, .logup{
+    text-align: center;
+    border: 2px solid #e2e2e2;
+    border-radius: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.header-bottom{
+    border-bottom: 2px solid #d2364c;
+}
+.catalog{
+    background-color: #d2364c;
+    text-align: center;
+}
+.catalog p{
+    color: white;
+    font-size: 15px;
+    margin: 15px 0px 15px 0px;
+
+}
+.menu .navbar{
+    margin-bottom: 0px;
+    border: 0px; 
+}
+.menu .navbar a{
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+.menu .navbar a:hover{
+    background-color: white;
+}
+.menu .navbar-toggle{
+    float: left;
+    border: 1px solid #e2e2e2;
+}
+.menu .navbar-toggle .icon-bar{
+    background-color: #e2e2e2;
+}
+.cart img{
+    width: 100%;
+}
+.info{
+    padding-bottom: 20px;
+    display: flex;
+
+}
+.catalogsp{
+    background-color: #2b2b2b;
+
+}
+.list-catalog ul{
+    list-style-type: none;
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.list-catalog ul li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #333333;
+}
+.list-catalog ul li p{
+    margin: 0px;
+    color: white;
+    font-size: 13px;
+}
+.slide-banner{
+    padding-top: 15px;
+}
+.promotion{
+    background-color: #f9f9f9;
+}
+.title-promotion{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #c1c1c1; 
+}
+.title-promotion p{
+    font-weight: bold;
+}
+.new-promotion ul{
+    list-style-type: none;
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.new-promotion ul li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #c1c1c1;
+}
+.hot-product{
+    padding-top: 20px;
+}
+.background-yelow{
+    background-color: #ffd800;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.title-hot h4{
+    font-weight: bold;
+    margin-top: 25px;
+}
+.title-hot .media-left{
+    padding-right: 0px;
+}
+.hot-product-sl{
+    padding: 10px 30px 10px 30px;
+}
+.hot-product-sl .item {
+    padding: 15px ;
+}
+.hot-product-sl .item img{
+    background-color: white;
+    padding: 15px 70px 15px 70px;
+}
+.washing-cheap{
+    padding-top: 20px;
+}
+.padding0{
+    padding: 0px;
+}
+.title-washing{
+    border-bottom: 1px solid #6acb9d;
+}
+.title-washing h3{
+    font-weight: bold;
+}
+.item-washing img{
+    padding: 15px 70px 15px 70px;
+}
+.item-washing h5{
+    font-weight: bold;
+}
+.rate{
+    width: 100%;
+    float: left;
+}
+.rate i{
+    float: left;
+}
+.rate p{
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+}
+.price-washing p{
+    color: #ff1608;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.price-old{
+    text-decoration: line-through;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.price-real{
+    border: 2px solid #3ea1b4;
+    color: #ff1608;
+    font-weight: bold;
+}
+.price-real span{
+    background-color: #3ea1b4;
+    padding: 3px;
+}
+.price-washing span{
+    background-color:  #c1272d;
+    color: white;
+    margin-left: 10px;
+}
+.description-washing{
+    border-top: 2px solid #ff9696;
+    border-bottom: 2px solid #ff9696;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.description-washing p{
+    font-weight: bold;
+    font-size: 10px;
+    margin-bottom: 0px;
+}
+
+.price-washing{
+    width: 100%;
+    float: left;
+}
+.title-dishwashing{
+    border-bottom: 1px solid #d47c28;
+}
+.title-dishwashing h3{
+    font-weight: bold;
+}
+.chooseus{
+    padding-top: 40px;
+}
+.title-chooseus{
+    text-align: center;
+}
+.title-chooseus h3{
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.gachmau{
+    margin-top: 10px;
+    border: 2px solid #29abe2;
+}
+.img-chooseus{
+    padding: 20px 30px 20px 30px;
+}
+.chooseus-left{
+    padding-top: 50px;
+}
+.chooseus-1{
+    padding-top: 30px;
+    width: 100%;
+    float: left;
+    padding-bottom: 30px;
+}
+.chooseus-1 span{
+    font-weight: bold;
+    padding: 20px;
+    font-size: 17px;
+}
+.news{
+    padding-top: 40px;
+    height: 300px;
+}
+.footer{
+    background-color: #d2364c;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.footer .ad{
+    color: white;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer span{
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.btn-social {position:relative;padding-left:44px;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.btn-social :first-child {position:absolute;left:0;top:0;bottom:0;width:32px;line-height:34px;font-size:1.6em;text-align:center;border-right:1px solid rgba(0,0,0,0.2)}
+.btn-social.btn-lg {padding-left:61px}
+.btn-social.btn-lg :first-child{line-height:45px;width:45px;font-size:1.8em}
+.btn-social.btn-sm {padding-left:38px}
+.btn-social.btn-sm :first-child {line-height:28px;width:28px;font-size:1.4em}
+.btn-social.btn-xs {padding-left:30px}
+.btn-social.btn-xs :first-child {line-height:20px;width:20px;font-size:1.2em}
+.btn-social-icon {position:relative;padding-left:44px;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;height:34px;width:34px;padding:0}
+.btn-social-icon :first-child {position:absolute;left:0;top:0;bottom:0;width:32px;line-height:34px;font-size:1.6em;text-align:center;border-right:1px solid rgba(0,0,0,0.2)}
+.btn-social-icon.btn-lg {padding-left:61px}.btn-social-icon.btn-lg :first-child {line-height:45px;width:45px;font-size:1.8em}
+.btn-social-icon.btn-sm {padding-left:38px}.btn-social-icon.btn-sm :first-child {line-height:28px;width:28px;font-size:1.4em}
+.btn-social-icon.btn-xs {padding-left:30px}.btn-social-icon.btn-xs :first-child {line-height:20px;width:20px;font-size:1.2em}
+.btn-social-icon :first-child {border:none;text-align:center;width:100% !important}
+.btn-social-icon.btn-lg {height:45px;width:45px;padding-left:0;padding-right:0}
+.btn-social-icon.btn-sm {height:30px;width:30px;padding-left:0;padding-right:0}
+.btn-social-icon.btn-xs {height:22px;width:22px;padding-left:0;padding-right:0}
+
+.btn-facebook{color:#fff;background-color:#3b5998;border-color:rgba(0,0,0,0.2)}.btn-facebook:hover,.btn-facebook:focus,.btn-facebook:active,.btn-facebook.active,.open .dropdown-toggle.btn-facebook{color:#fff;background-color:#30487b;border-color:rgba(0,0,0,0.2)}
+.btn-facebook:active,.btn-facebook.active,.open .dropdown-toggle.btn-facebook{background-image:none}
+.btn-facebook.disabled,.btn-facebook[disabled],fieldset[disabled] .btn-facebook,.btn-facebook.disabled:hover,.btn-facebook[disabled]:hover,fieldset[disabled] .btn-facebook:hover,.btn-facebook.disabled:focus,.btn-facebook[disabled]:focus,fieldset[disabled] .btn-facebook:focus,.btn-facebook.disabled:active,.btn-facebook[disabled]:active,fieldset[disabled] .btn-facebook:active,.btn-facebook.disabled.active,.btn-facebook[disabled].active,fieldset[disabled] .btn-facebook.active{background-color:#3b5998;border-color:rgba(0,0,0,0.2)}
+.btn-youtube{color:#fff;background-color:#FF261B;border-color:rgba(0,0,0,0.2)}.btn-youtube:hover,.btn-youtube:focus,.btn-youtube:active,.btn-youtube.active,.open .dropdown-toggle.btn-youtube{color:#fff;background-color:#E62117;border-color:rgba(0,0,0,0.2)}
+.btn-youtube:active,.btn-youtube.active,.open .dropdown-toggle.btn-youtube{background-image:none}
+.btn-youtube.disabled,.btn-youtube[disabled],fieldset[disabled] .btn-youtube,.btn-youtube.disabled:hover,.btn-youtube[disabled]:hover,fieldset[disabled] .btn-youtube:hover,.btn-youtube.disabled:focus,.btn-youtube[disabled]:focus,fieldset[disabled] .btn-youtube:focus,.btn-youtube.disabled:active,.btn-youtube[disabled]:active,fieldset[disabled] .btn-youtube:active,.btn-youtube.disabled.active,.btn-youtube[disabled].active,fieldset[disabled] .btn-youtube.active{background-color:#3b5998;border-color:rgba(0,0,0,0.2)}
